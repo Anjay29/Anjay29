@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://github.com/Anjay29 
-LinkedIn - https://www.linkedin.com/mwlite/in/anjay-kumar-9b6918200
+LinkedIn - www.linkedin.com/in/anjay29
 
 <!---
 Anjay29/Anjay29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
