@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anjay29
 - 👀 I’m interested in Software development and machine learning
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Programming Languages - C/C++, Python
+- Tech Stack - HTML, CSS, TailWind, React
 - 📫 How to reach me https://github.com/Anjay29 
 LinkedIn - www.linkedin.com/in/anjay29
 
